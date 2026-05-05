@@ -1,5 +1,5 @@
 # PokéBot
-
+![A screenshot of the PokéBot CLI](./screen.png)
 An agentic Pokémon assistant for your terminal. Ask anything — types, moves, evolutions, locations, items, natures — and get answers backed by live PokéAPI data.
 
 Built with Go, [Charm](https://charm.sh) TUI libraries, and Google Gemini.
